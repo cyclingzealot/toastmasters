@@ -6,6 +6,7 @@ Preperation
 * To prevent floor crossing, were their 2 chairs on either side
   1. somewhere within the speaker's view 
   2. in a non-awkward position that does not hinder mouvement?
+* Did the speech evaluators have the speaker's manuals and ready for the reading of the executive summary & objectives?
 
 All roles
 * Did all speakers prompt the chair, table topics or general evaluator when it was time to return, and extended their hand to shake?
@@ -24,7 +25,6 @@ Minor segments
 * For the toast, was the prompting for (a) the standing up and (b) the toast done clearly and without ambiguity ?
 
 Evaluators intro
-* Did the speech evaluators have the speaker's manuals and ready for the reading of the executive summary & objectives?
 * Did speech evaluators, between reading the summary and speech objectives,  indicate:
   1. the evaluation sheets in front of them
   2. You may use your own criterias or the following objectives to help you with your evaluation of the speaker
