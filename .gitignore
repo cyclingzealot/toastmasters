@@ -1,1 +1,9 @@
 .~lock.*#
+wp-config.php
+database/backups/*
+.buildpath
+.project
+.settings/
+*.sw?
+.~lock.*
+
