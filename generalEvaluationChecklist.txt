@@ -1,4 +1,4 @@
-Things that a general evalutor can report on:
+Suggested things that a general evalutor can report on.  The GE of the day may of course have a different and valid opinion on what contitutes a good meeting.
 
 Preperation
 * Was the banner there? (though this requires allot of work if it is not on site)
