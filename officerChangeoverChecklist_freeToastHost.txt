@@ -1,0 +1,68 @@
+Originally at http://support.toastmastersclubs.org/doc/item/officer-changeover-checklist
+
+
+Officer Changeover Checklist
+
+   This is intended to assist you in updating your website appropriately
+   at the end of officers' terms when you are switching to new officers.
+
+   Some things to review in your FreeToastHost website when switching to
+   new officers:
+    1. If you are using a custom domain, it is a good time to review your
+       expiration date for your custom domain.  You can check this for
+       your custom domain using [30]http://www.whois.com/ .  If your
+       custom domain will be expiring in the next officer term, it is a
+       good idea to give your incoming treasurer a heads up in advance
+       about any renewal cost that they should expect during their term.
+    2. Try to get member photos and completed bios for all of your
+       incoming club officers.  Get their permission to make their
+       profiles public so that they show up on the Meet Our Members page.
+    3. Review your home page and custom web pages to identify anywhere
+       that your current officers are identified, as you will likely want
+       to update those pages to reflect the new officers.  A simple
+       approach to doing this is just to make a copy of the current pages
+       as custom web pages and set them as unlisted so that you can work
+       on the updates without having to show them right away.
+    4. Review your Access Settings as the incoming officers may want to do
+       things differently with regards to admin console access for your
+       website.
+    5. You will need to update the officer settings in Membership
+       Management.  If you want to save your current officers to a
+       "formerofficers" group or your new officers to a "newofficers"
+       group, you can do that by making a custom group.
+    6. Make sure that the new officers understand the implications of the
+       club email reply settings.  For example, if your officer email
+       reply settings are set to Reply All, make sure the new officers
+       understand that if they reply to those emails, the replies go to
+       all officers and the sender.
+    7. Make sure that the new officers understand that, by default, they
+       are assigned publically accessible officer email addresses
+       ("aliases") that forward to their real email addresses.  If the new
+       officers ever get spammed at these email addresses, the email
+       addresses can be disabled or the sender of the spam can be
+       blacklisted.  Lastly, make sure that officers understand that they
+       can publish their officer email address instead of their personal
+       email address.
+    8. Determine who will be the club contacts for the new officer term.
+       If your club has chosen to just make the contacts associated with
+       specific officer roles (easier) you may not need to do anything
+       with this, but if your contacts are specific members, you will
+       likely need to update them in Email and Contact Forms (Contact Us
+       Form tab).
+    9. Determine who will be your mentoring contact for the new officer
+       term (your VPE?), and set that on the Mentoring Form tab in Email
+       and Contact Forms.
+   10. If you are using the FreeToastHost agendas, you will probably want
+       to verify who will want to get Role Change Notifications during the
+       next officer term.  For example, your club president may not want
+       to receive those notifications.  The Role Change Notifications are
+       set up in the Meeting Agenda Settings module.
+   11. Be prepared to go over the functionality of different admin console
+       functions for any incoming officers that will be using the admin
+       console.
+
+   Historically, officer changeover has been associated with some
+   confusion about how to modify website settings to reflect the new
+   officers.  Hopefully, the above checklist will help make this
+   changeover go a bit smoother.  Please let us know if we have forgotten
+   anything in the above list.
