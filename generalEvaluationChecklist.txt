@@ -1,4 +1,4 @@
-Things that a general evalutor can report on:
+Suggested things that a general evalutor can report on.  The GE of the day may of course have a different and valid opinion on what contitutes a good meeting.
 
 Preperation
 * Was the banner there? (though this requires allot of work if it is not on site)
@@ -22,6 +22,7 @@ Introductions
 Chair
 * Especially if there are guests, was the congradulation made for the first speech (the intro)?
 * If time permitted and if there are guests, were the CC & CL explained?
+* Was there no ambiguity in terms of from where the minor roles should be done (timer, gramarian, castanets) or doing standing or sitting? 
 
 Minor segments
 * For word of the day, was it clearly displayed at the front (or, for the speaker's benefit, to the side)?
@@ -34,6 +35,7 @@ Evaluators intro
 
 Table topics 
 * Was it explained that participants are free to diverge from the subject
+* Was there no ambiguity as to from where participants are expected to do their speeches? 
 
 Speech evaluations
 * Were the speech evaluations on delivery and not on content?  If some feedback was on content, should the exception had been indicated?
