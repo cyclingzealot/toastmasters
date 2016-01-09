@@ -24,9 +24,14 @@ Chair
 * If time permitted and if there are guests, were the CC & CL explained?
 * Were minor roles instructed from where (their seats or at the lectern) to do their roles and how (standing, sitting)
 
-Minor segments
+Word of the day
 * For word of the day, was it clearly displayed at the front (or, for the speaker's benefit, to the side)?
-* For the toast, was the prompting for (a) the standing up and (b) the toast done clearly and without ambiguity ?
+
+Toast
+* For the toast, was the prompting done clearly and without ambiguity, that is, a prompt:
+    1. First to get up
+    2. Then to raise your glass
+    3. To ______ one very short sentance ________
 
 Evaluators intro
 * Did speech evaluators, between reading the summary and speech objectives,  indicate:
@@ -36,7 +41,10 @@ Evaluators intro
 Table topics 
 * Was it explained that participants are free to diverge from the subject
 * Was there no ambiguity as to from where participants are expected to do their speeches? 
-* If participants were delivering from the front, did the table topics master clear the area completely but stayed in view of the participant?
+* If participants were delivering from the front, 
+    - did the table topics master clear the area completely but stayed in view of the participant?
+    - If Were the volunteers called on their turn (rather than all of them at the same time)?
+* Was there sheets of paper for the participants?
 
 Speech evaluations
 * Were the speech evaluations on delivery and not on content?  If some feedback was on content, should the exception have been indicated and was it?
