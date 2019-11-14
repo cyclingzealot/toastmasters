@@ -34,7 +34,7 @@ Toast
 * For the toast, was the prompting done clearly and without ambiguity, that is, a prompt:
     1. First to get up
     2. Then to raise your glass
-    3. To ______ (one very short 3-5 sentence)  ________
+    3. To ______ (one very short 3-5 word sentence)  ________
 
 Table topics
 * Was it explained that participants are free to diverge from the subject
